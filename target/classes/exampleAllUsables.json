@@ -1,0 +1,10 @@
+[
+  {
+    "type": "oogasalad.model.utilities.usables.weapons.ClusterShot",
+    "properties": {
+      "myID": "cluster",
+      "goldCost": 10,
+      "relativeCoordShots": {}
+    }
+  }
+]
